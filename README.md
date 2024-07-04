@@ -2,6 +2,8 @@
 
 This project is a web application that detects and counts the number of people in an image using the YOLOv10 object detection model. Users can input an image URL through an HTML interface, and the application processes the image to count the number of people present. The application is built using FastAPI and is deployed on a web server.
 
+https://github.com/TanveerSingh230/Person-Detection-using-YOLOv10/assets/108932947/e45290ac-0f99-47a1-931a-70d11177fd19
+
 ## Features
 
 - **Person Detection**: Utilizes YOLOv10 to detect and count the number of people in an image.
